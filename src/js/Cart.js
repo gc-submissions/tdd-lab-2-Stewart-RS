@@ -63,14 +63,3 @@ price of all Products in the items array. */
 
 module.exports = { Product };
 module.exports = { Cart };
-
-/* let productOf = this.items.push(product);
-    {
-      return productOf;
-      //return 1
-    } */
-/*   let tax = 0;
-    for (let item of this.items) {
-      tax += item.getTotalWithTax() - getTotalBeforeTax();
-    }
-    return tax; */
